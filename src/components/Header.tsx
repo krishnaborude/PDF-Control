@@ -7,12 +7,12 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <DocumentIcon className="h-8 w-8 text-blue-400" />
-            <h1 className="text-xl font-bold">PDF Merger</h1>
+            <h1 className="text-xl font-bold">PDF-Control</h1>
           </div>
           <div>
             <nav className="flex items-center space-x-6">
               <a 
-                href="https://github.com/krishnaborude/PDF-Merger"
+                href="https://github.com/krishnaborude/PDF-Control"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-200 hover:text-white transition-colors"

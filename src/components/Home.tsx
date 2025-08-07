@@ -8,7 +8,7 @@ export default function Home() {
         <div className="flex-1 bg-gray-900 py-16 px-4 sm:px-6 lg:px-8">
             <div className="max-w-7xl mx-auto">
                 <h1 className="text-4xl font-bold text-center text-gray-100 mb-12">
-                    PDF Merger
+                    PDF-Control
                 </h1>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
                     {/* Simple Merge Container */}
